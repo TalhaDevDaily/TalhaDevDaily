@@ -9,7 +9,6 @@
 
 
 ## 🛠️ Tech & Tools
-
 <p align="center">
   <!-- Replace or remove badges as needed -->
   <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%23E34C26">
@@ -23,7 +22,6 @@
 </p>
 
 ## My Projects  
-
 <p align="center">
   <!-- Replace GIF with your own or static screenshots -->
   <img src="INSERT_PROJECT1_GIF_URL" width="150" alt="Project One Demo"/>
@@ -31,8 +29,7 @@
 
 
 ## GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=TalhaDevDaily&custom_title=Talha%27s%20Status&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=TalhaDevDaily&custom_title=Talha%27s%20Status&show_icons=true&include_all_commits=true&theme=radical)
 
 
 
