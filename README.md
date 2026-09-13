@@ -6,7 +6,10 @@
 - 😄 Pronouns: While I write code, my pronouns are 'debugger/debugging.
 - ⚡ Fun fact: "Can code, game, and consume pizza simultaneously—a triple threat."
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6cebcc11-d25f-48fc-92d9-5f7299e37bcf" />
+<br><br>
+
+<img align="center" width="520" alt="Image" src="https://github.com/user-attachments/assets/6cebcc11-d25f-48fc-92d9-5f7299e37bcf" />
+<br><br>
 
 
 
