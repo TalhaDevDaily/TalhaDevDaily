@@ -33,7 +33,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=TalhaDevDaily&theme=radical&timezone=%2B6&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 -->
 ## GitHub Stats  
-<div align="center" style="display: flex; justify-content: space-between; width: 100%">
+<div align="center" style="display: flex; flex-direction: column;">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=TalhaDevDaily&theme=radical&timezone=%2B6&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="195px" />
   </a>
