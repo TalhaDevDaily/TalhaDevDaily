@@ -30,6 +30,7 @@
 
 ## GitHub Stats  
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=TalhaDevDaily&custom_title=Talha%27s%20Status&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=TalhaDevDaily&custom_title=Talha%27s%20Status&show_icons=true&include_all_commits=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TalhaDevDaily&theme=radical&timezone=%2B6&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 
