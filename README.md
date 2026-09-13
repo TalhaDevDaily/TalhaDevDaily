@@ -25,7 +25,7 @@
 <p align="center">
   <!-- Replace GIF with your own or static screenshots -->
   <img src="INSERT_PROJECT1_GIF_URL" width="150" alt="Project One Demo"/>
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=TalhaDevDaily&repo=TalhaDevDaily%2FOmniFood&show_owner=true&description_lines_count=2&theme=calm)](https://github.com/TalhaDevDaily/OmniFood)
+  [[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=TalhaDevDaily&repo=TalhaDevDaily%2FOmniFood&show_owner=true&description_lines_count=2&theme=calm)](https://github.com/TalhaDevDaily/OmniFood)](https://github-stats-extended.vercel.app/api/pin?username=TalhaDevDaily&repo=TalhaDevDaily%2FOmniFood&show_owner=true&description_lines_count=2&theme=calm)
 </p>
 
 
