@@ -22,6 +22,20 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Firebase-%23FFC400">
 </p>
 
+---
+
+<!-- ============================= -->
+<!--           MY PROJECTS         -->
+<!-- ============================= -->
+
+## My Projects  
+
+<p align="center">
+  <!-- Replace GIF with your own or static screenshots -->
+  <img src="INSERT_PROJECT1_GIF_URL" width="150" alt="Project One Demo"/>
+</p>
+
+---
 
 
 
