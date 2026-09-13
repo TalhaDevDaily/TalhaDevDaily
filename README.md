@@ -34,7 +34,7 @@
 -->
 ## GitHub Stats  
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: space-between;">
   <a href="https://github-stats-extended.vercel.app/api?username=TalhaDevDaily&custom_title=Talha%27s%20Status&show_icons=true&include_all_commits=true&theme=radical">
     <img src="https://github-stats-extended.vercel.app/api?username=TalhaDevDaily&custom_title=Talha%27s%20Status&show_icons=true&include_all_commits=true&theme=radical" alt="GitHub Stats" height="195px" />
   </a>
