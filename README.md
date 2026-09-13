@@ -7,7 +7,14 @@
 - ⚡ Fun fact: "Can code, game, and consume pizza simultaneously—a triple threat."
 
 
-# My Status
+
+## 🛠️ Tech & Tools
+
+<p align="center">
+  <!-- Replace or remove badges as needed -->
+  <img src="https://img.shields.io/badge/Skill1-Color?logo=tool&logoColor=white" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23F0DB4F">
+</p>
 
 
 
