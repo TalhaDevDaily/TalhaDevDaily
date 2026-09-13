@@ -12,8 +12,14 @@
 
 <p align="center">
   <!-- Replace or remove badges as needed -->
-  <img src="https://img.shields.io/badge/Skill1-Color?logo=tool&logoColor=white" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%23E34C26">
+  <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-%23264de4">
   <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23F0DB4F">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-%238312FA">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind%20CSS-%2338BDF8">
+  <img alt="Static Badge" src="https://img.shields.io/badge/ReactJS-%2361DBFB">
+  <img alt="Static Badge" src="https://img.shields.io/badge/NextJS-%23eeeeee">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Firebase-%23FFC400">
 </p>
 
 
