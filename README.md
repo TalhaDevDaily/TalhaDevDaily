@@ -22,12 +22,6 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Firebase-%23FFC400">
 </p>
 
----
-
-<!-- ============================= -->
-<!--           MY PROJECTS         -->
-<!-- ============================= -->
-
 ## My Projects  
 
 <p align="center">
@@ -35,7 +29,10 @@
   <img src="INSERT_PROJECT1_GIF_URL" width="150" alt="Project One Demo"/>
 </p>
 
----
+
+## GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
 
 
 
