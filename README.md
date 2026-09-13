@@ -6,6 +6,8 @@
 - 😄 Pronouns: While I write code, my pronouns are 'debugger/debugging.
 - ⚡ Fun fact: "Can code, game, and consume pizza simultaneously—a triple threat."
 
+![Uploading 9070324cdfc07c68d60eed0c39e77573.gif…]()
+
 
 
 ## 🛠️ Tech & Tools
